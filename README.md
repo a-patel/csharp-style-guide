@@ -1,15 +1,15 @@
 # C# Style Guide
 C# Style Guide for Tutorials
 
---
+---
 The code is read much more often than it is written.
 
 
 ### The Zen of any programming language
 
-Beautiful is better than ugly.
-Explicit is better than implicit.
-Simple is better than complex.
+* Beautiful is better than ugly.
+* Explicit is better than implicit.
+* Simple is better than complex.
 Complex is better than complicated.
 Flat is better than nested.
 Sparse is better than dense.
