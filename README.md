@@ -439,3 +439,17 @@ string colour = "red";
 ```csharp
 string color = "red";
 ```
+
+
+
+
+Indentation
+Maximum Line Length
+Line Wraps
+Blank Lines
+Whitespaces in Expressions and Statements
+Imports/usings/regions
+Comments
+Naming Conventions
+
+
