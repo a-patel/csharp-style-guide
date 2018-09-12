@@ -28,7 +28,6 @@ The code is read much more often than it is written.
 * Namespaces are one honking great idea -- let's do more of those!
 
 
-
 You also see "Readability Counts" in the above listed points, which should be your main concern while writing code: other programmers should understand and should be able to contribute to your code so that it can solve the task at hand.
 
 
