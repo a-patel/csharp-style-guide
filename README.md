@@ -32,6 +32,27 @@ The code is read much more often than it is written.
 You also see "Readability Counts" in the above listed points, which should be your main concern while writing code: other programmers should understand and should be able to contribute to your code so that it can solve the task at hand.
 
 
+## Style Guiding Principles
+
+* Be consistent.
+* Don't rewrite existing code to follow this guide.
+* Don't violate a guideline without a good reason.
+* A reason is good when you can convince a teammate, not just when you like it.
+* Assume your reader knows C# and English.
+* Prefer clarity to 'performance'.
+* Prefer clarity to .NET dogma.
+* Write comments that people want to read, with correct spelling and grammar.
+
+
+## The Rundown
+
+* Indent with tabs.
+* Max line length is 100 columns.
+* Use spaces and empty lines precisely.
+* Braces generally go on their own lines.
+* Never put a space before `[`.
+* Always put a space before `{`.
+* Always put a space before `(` except for method invocations or when following another `(`.
 
 
 
