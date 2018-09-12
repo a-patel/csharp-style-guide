@@ -453,3 +453,9 @@ Comments
 Naming Conventions
 
 
+
+links
+https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/index
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
+https://www.dofactory.com/reference/csharp-coding-standards
+
